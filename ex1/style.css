@@ -1,0 +1,58 @@
+p {
+  font-family: Roboto;
+}
+
+h5 {
+  font-family: Roboto;
+}
+
+.space-between-block {
+  height: 100px;
+}
+
+.nav-item {
+  text-align: center;
+}
+
+.d-flex {
+  text-align: right;
+}
+
+.carousel-inner img {
+  width: 100%;
+}
+
+.carousel-inner h5 {
+  font-size: 70%;
+}
+
+.carousel-inner p {
+  font-size: 300%;
+}
+
+.container-block {
+  margin: 10em;
+}
+
+.card-title {
+  font-size: 80%;
+  color: #088776;
+}
+
+.title-swipe-pic {
+  display: flex;
+}
+
+.view-all-swipe-pic-- {
+  display: flex;
+  text-align: right;
+  font-family: Roboto;
+}
+
+.view-all-swipe-pic-- span {
+  color: #088776;
+}
+
+.card-list {
+  display: flex;
+}
