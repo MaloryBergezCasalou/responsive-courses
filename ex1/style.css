@@ -7,7 +7,7 @@ h5 {
 }
 
 .space-between-block {
-  height: 100px;
+  height: 80px;
 }
 
 .nav-item {
@@ -31,7 +31,7 @@ h5 {
 }
 
 .container-block {
-  margin: 10em;
+  margin-left: 10em;
 }
 
 .card-title {
@@ -45,14 +45,67 @@ h5 {
 
 .view-all-swipe-pic-- {
   display: flex;
-  text-align: right;
+  text-align: end;
   font-family: Roboto;
 }
 
 .view-all-swipe-pic-- span {
   color: #088776;
+  text-align: right;
+  height: 120%;
 }
 
 .card-list {
   display: flex;
+}
+
+.title-block-3 {
+  font-size: 80%;
+  color: #088776;
+  font-family: Roboto;
+}
+
+.block-3 {
+  margin-left: 10em;
+}
+
+.text-block-3 {
+  font-size: 24px;
+  line-height: 1em;
+  font-family: Roboto;
+}
+
+.far fa-gem {
+  text-align: left;
+}
+
+.title-in-block-3 {
+  font-family: Roboto;
+}
+
+.text-in-block-3 {
+  font-family: Roboto;
+  line-height: 1em;
+}
+
+.img-home-about {
+  width: 50%;
+}
+
+.img-in-table-block-3 {
+  text-align: right;
+}
+
+.title-block-4 {
+  font-size: 24px;
+  line-height: 1em;
+  font-family: Roboto;
+}
+
+.table-block-4 {
+  text-align: center;
+}
+
+.img-in-table-block-4 {
+  text-align: left;
 }
