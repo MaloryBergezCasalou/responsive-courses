@@ -96,16 +96,50 @@ h5 {
   text-align: right;
 }
 
-.title-block-4 {
-  font-size: 24px;
-  line-height: 1em;
-  font-family: Roboto;
-}
-
 .table-block-4 {
   text-align: center;
+  margin-left: 16em;
 }
 
 .img-in-table-block-4 {
   text-align: left;
+}
+
+.title-block-4 {
+  font-size: 24px;
+  font-family: Roboto;
+  text-align: left;
+}
+
+.text-in-block-4 {
+  text-align: left;
+}
+
+.button-block-4 {
+  text-align: left;
+}
+
+.card-text {
+  text-align: left;
+}
+
+.card-title {
+  text-align: left;
+}
+
+.block-5 {
+  margin: 10em;
+}
+
+.bar-get-inspired {
+  display: flex;
+}
+
+.view-all-get-inspired-- {
+  display: flex;
+  text-align: end;
+  font-family: Roboto;
+}
+.grid {
+  width: 100%;
 }
