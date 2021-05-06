@@ -143,3 +143,44 @@ h5 {
 .grid {
   width: 100%;
 }
+
+.img-block-6 {
+  width: 100%;
+}
+.txt-block-6 {
+  font-family: Roboto;
+}
+.block-6 {
+  background-color: #f8f8f8;
+  margin: 10em;
+}
+.text-block-6 {
+  vertical-align: middle;
+}
+
+.block-7 {
+  display: flex;
+  margin: 10em;
+}
+
+.footer-bar {
+  background-color: #088776;
+  color: white;
+  vertical-align: middle;
+}
+
+.bar {
+  background-color: #088776;
+}
+
+.footer-title {
+  font-size: 80%;
+  color: #088776;
+}
+.footer p {
+  color: grey;
+}
+
+.footer span {
+  color: grey;
+}
